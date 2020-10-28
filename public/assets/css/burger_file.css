@@ -1,0 +1,26 @@
+.header-bg {
+    background-color: white;
+    color: white;
+}
+
+.header {
+    color: #311c19;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    max-height: 50px;
+}
+
+.btn-warning {
+    background-color: #fac126;
+    color: white;
+}
+
+.btn-danger {
+    background-color: #f67f72;
+    color: white;
+}
